@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tony-222
-- 👀 I’m interested in space, computer science, spiders:)
-- 🌱 I’m currently learning Modules for Experiments in Stellar Astrophysics (MESA) and basic Computer Science.
+- 👀 I’m interested in space, computer sciences, the environment and ecology:)
+- 🌱 I’m currently learning Computer Sciences.
 - 💞️ I’m looking to collaborate on anything, if I have the time.
 - 📫 How to reach me: adagenais20@ubishops.ca
 
