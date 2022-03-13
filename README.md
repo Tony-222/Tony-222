@@ -2,7 +2,7 @@
 - 👀 I’m interested in space, computer sciences, the environment and ecology:)
 - 🌱 I’m currently learning Computer Sciences.
 - 💞️ I’m looking to collaborate on anything, if I have the time.
-- 📫 How to reach me: adagenais20@ubishops.ca
+- 📫 How to reach me: tony.222.1126@gmail.com
 
 <!---
 Tony-222/Tony-222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
